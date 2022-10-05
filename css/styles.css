@@ -55,6 +55,17 @@ h3 {
     display: flex;
     justify-content: center;
 }
+/* footer css */
+.footer {
+    background-color: var(--primarioOscuro);
+    padding: 1rem 0;
+    margin-top: 2rem;
+}
+.footer__texto {
+    text-align: center;
+    font-family: var(--fuentrePrincipal);
+    font-size: 2rem;
+}
 .header__logo {
     margin: 3rem 0;
 }
